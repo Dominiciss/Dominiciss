@@ -1,4 +1,4 @@
-Hi 👋 My name is Manuel Dominich Martinez
+Hello, I'm Manuel Dominich Martinez
 =========================================
 
 Fullstack Developer
