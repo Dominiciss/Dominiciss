@@ -12,7 +12,9 @@ I'm a trainee fullstack developer from Argentina. I started programming at the e
 * 🧠  I'm learning Spring security, data JPA, Thymeleaf.
 * 🤝  I'm open to collaborating on Projects made with Java, Spring, React.
 
-| Hola | Chau|
+| Hola | Chau |
+| ---- | ---- |
+| asdd | asdd |
 
 ### Skills
 
