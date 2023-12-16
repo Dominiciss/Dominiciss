@@ -7,7 +7,7 @@ Fullstack Developer
 I'm a trainee fullstack developer from Argentina. I started programming at the end of 2022. I developed my skills in Java (Spring), MySQL, PostgreSQL, Thymeleaf, CSS, JS, HTML, Bootstrap, Vite and React. Besides programming, I'm studying to become an English teacher.
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [MyPortfolio (In Progress)](http://myapp.com)
+* 🖥️  See my portfolio at [MyPortfolio (In Progress)](https://github.com/Dominiciss)
 * ✉️  You can contact me at [dominichmartinezmanuel@gmail.com](mailto:dominichmartinezmanuel@gmail.com)
 * 🧠  I'm learning Spring security, data JPA, Thymeleaf.
 * 🤝  I'm open to collaborating on Projects made with Java, Spring, React.
