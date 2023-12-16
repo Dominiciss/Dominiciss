@@ -14,7 +14,6 @@ I'm a trainee fullstack developer from Argentina. I started programming at the e
 
 | Hola | Chau |
 | ---- | ---- |
-| asdd | asdd |
 
 ### Skills
 
